@@ -73,7 +73,7 @@ public class MainActivity extends AppCompatActivity {
                     case R.id.drafts:
                         Toast.makeText(getApplicationContext(),"Drafts Selected",Toast.LENGTH_SHORT).show();
                         return true;
-                    case R.id.allmail: 
+                    case R.id.allmail:
                         Toast.makeText(getApplicationContext(),"All Mail Selected",Toast.LENGTH_SHORT).show();
                         return true;
                     case R.id.trash:
